@@ -1,0 +1,1 @@
+ALTER TABLE `products` ADD `rating` VARCHAR(200) NOT NULL AFTER `tags`;
